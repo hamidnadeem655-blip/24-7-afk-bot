@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "staff_bot",
+    "username": "staff_bot_2.0",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "Portal_smp_real.aternos.me",
-    "port": 32365,
+    "ip": "zefron_smp.aternos.me",
+    "port": 54959,
     "version": "1.20.1",
     "try-creative": false
   },
